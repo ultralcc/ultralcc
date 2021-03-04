@@ -5,32 +5,33 @@ You can contact me via [![LinkedIn][3.2]][1]
 ## 🔧 Skills & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f5e23d)
 
-![](https://img.shields.io/badge/Programming-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6dbfeb)
-![](https://img.shields.io/badge/Programming-iOS-informational?style=flat&logo=iOS&logoColor=white&color=FFFFFF)
-![](https://img.shields.io/badge/Programming-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=97be54)
+![](https://img.shields.io/badge/Programming-Flutter-informational?style=flat&logo=flutter&logoColor=6dbfeb&color=6dbfeb)
+![](https://img.shields.io/badge/Programming-Angular-informational?style=flat&logo=angular&logoColor=c42a37&color=c42a37)
+![](https://img.shields.io/badge/Programming-Ionic-informational?style=flat&logo=ionic&logoColor=437cef&color=437cef)
+![](https://img.shields.io/badge/Programming-iOS-informational?style=flat&logo=iOS&logoColor=FFFFFF&color=FFFFFF)
+![](https://img.shields.io/badge/Programming-Node.js-informational?style=flat&logo=node.js&logoColor=97be54&color=97be54)
 
-![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=205591)
-![](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=white&color=ea874e)
-![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ecd74d)
+![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=6dbfeb&color=205591)
+![](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=ea874e&color=ea874e)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=ecd74d&color=ecd74d)
+![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=2f75c0&color=2f75c0)
+![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=242424)
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4198df)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=4198df&color=4198df)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=d8583e&color=d8583e)
+![](https://img.shields.io/badge/Tools-Codemagic-informational?style=flat&logo=codemagic&logoColor=df744a&color=1950cf)
 
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Onetail/Onetail">
+<a href="https://github.com/ultralcc/ultralcc">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultralcc&hide=jupyter%20notebook&theme=ayu-mirage" />
 </a>
-<a href="https://github.com/Onetail/Onetail">
+<a href=https://github.com/ultralcc/ultralcc">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ultralcc&hide=jupyter%20notebook&theme=ayu-mirage&line_height=33&show_icons=true&icon_color=f4cd7c" alt="UltraLCC's GitHub Stats" />
 </a>
 
-
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
 
 [1.1]: https://i.imgur.com/L7616nY.png?1 (facebook icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
