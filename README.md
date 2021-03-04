@@ -5,13 +5,13 @@ You can contact me via [![LinkedIn][3.2]][1]
 ## 🔧 Skills & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f5e23d)
 
-![](https://img.shields.io/badge/Programming-iOS-informational?style=flat&logo=iOS&logoColor=white&color=FFFFFF)
 ![](https://img.shields.io/badge/Programming-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6dbfeb)
+![](https://img.shields.io/badge/Programming-iOS-informational?style=flat&logo=iOS&logoColor=white&color=FFFFFF)
 ![](https://img.shields.io/badge/Programming-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=97be54)
 
 ![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=205591)
-![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ecd74d)
 ![](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=white&color=ea874e)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ecd74d)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4198df)
 
